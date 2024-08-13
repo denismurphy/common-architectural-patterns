@@ -1,9 +1,9 @@
 
-# Microservices Architectural Patterns
+# Common Architectural Patterns
 
-Microservices is an architectural style for building applications as a collection of small, independent services that communicate with each other over a network. There are various architectural patterns that can be used to design and implement microservices, each with its own strengths and weaknesses.
+There are various architectural patterns that can be used to design and implement, each with its own strengths and weaknesses.
 
-In this guide, we will take a look at some of the common microservices architectural patterns:
+In this guide, we will take a look at some of the common architectural patterns:
 
 ## Service-Oriented Architecture (SOA)
 
