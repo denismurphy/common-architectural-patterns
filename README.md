@@ -14,7 +14,7 @@ Event-Driven Architecture involves the production, detection, and consumption of
 
 ## 🚪 API Gateway Pattern
 
-API Gateway provides a single entry point for client applications to access a collection of microservices. It acts as a reverse proxy, routing requests and returning responses, reducing client application complexity by hiding underlying service details.
+API Gateway provides a single entry point for client applications to access a collection of services. It acts as a reverse proxy, routing requests and returning responses, reducing client application complexity by hiding underlying service details.
 
 ## 📦 Resource-Oriented Architecture (ROA)
 
@@ -42,4 +42,4 @@ Hexagonal Architecture, or Ports and Adapters Architecture, separates core funct
 
 ## 🎓 Conclusion
 
-Various microservices architectural patterns can be used, each with unique strengths and weaknesses. The choice depends on project-specific requirements and constraints, often involving a combination of patterns. Carefully consider trade-offs and choose the best fit for your project needs.
+Various architectural patterns can be used, each with unique strengths and weaknesses. The choice depends on project-specific requirements and constraints, often involving a combination of patterns. Carefully consider trade-offs and choose the best fit for your project needs.
